@@ -72,7 +72,4 @@ busco -i hifiasm_1/SRR13577846_1.asm.bp.p_ctg.fa -l fungi_odb10 -m genome -c 24 
 ### saccharomycetes_odb10 ###
 ```bash
 busco -i hifiasm_1/SRR13577846_1.asm.bp.p_ctg.fa -l saccharomycetes_odb10 -m genome -c 24 -o
-``
-
-
-
+```
