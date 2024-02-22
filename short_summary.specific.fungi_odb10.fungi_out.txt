@@ -1,0 +1,30 @@
+# BUSCO version is: 5.6.1 
+# The lineage dataset is: fungi_odb10 (Creation date: 2024-01-08, number of genomes: 549, number of BUSCOs: 758)
+# Summarized benchmarking in BUSCO notation for file /home/inf-51-2023/de_novo_genome_assembly/hifiasm_1/SRR13577846_1.asm.bp.p_ctg.fa
+# BUSCO was run in mode: euk_genome_met
+# Gene predictor used: metaeuk
+
+	***** Results: *****
+
+	C:96.7%[S:94.5%,D:2.2%],F:0.1%,M:3.2%,n:758	   
+	733	Complete BUSCOs (C)			   
+	716	Complete and single-copy BUSCOs (S)	   
+	17	Complete and duplicated BUSCOs (D)	   
+	1	Fragmented BUSCOs (F)			   
+	24	Missing BUSCOs (M)			   
+	758	Total BUSCO groups searched		   
+
+Assembly Statistics:
+	53	Number of scaffolds
+	53	Number of contigs
+	12772529	Total length
+	0.000%	Percent gaps
+	809 KB	Scaffold N50
+	809 KB	Contigs N50
+
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	bbtools: 39.01
+	metaeuk: 6.a5d39d9
+	busco: 5.6.1

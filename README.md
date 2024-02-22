@@ -1,4 +1,4 @@
-#Long read de novo assembly exercise#
+# Long read de novo assembly exercise #
 
 Dataset is a HiFi Pacbio reads from the yeast Saccharomyces cerevisiae.
 The data can be downloaded from NCBI Sequence Read Archive (SRA)

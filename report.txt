@@ -1,0 +1,57 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     SRR13577846_1.asm.bp.a_ctg  SRR13577846_1.asm.bp.p_ctg  SRR13577846_1.asm.bp.p_utg  SRR13577846_1.asm.bp.r_utg
+# contigs (>= 0 bp)          7                           53                          97                          109                       
+# contigs (>= 1000 bp)       7                           53                          97                          109                       
+# contigs (>= 5000 bp)       7                           53                          97                          109                       
+# contigs (>= 10000 bp)      6                           53                          96                          107                       
+# contigs (>= 25000 bp)      0                           20                          29                          29                        
+# contigs (>= 50000 bp)      0                           17                          25                          26                        
+Total length (>= 0 bp)       98753                       12772529                    13240714                    13359236                  
+Total length (>= 1000 bp)    98753                       12772529                    13240714                    13359236                  
+Total length (>= 5000 bp)    98753                       12772529                    13240714                    13359236                  
+Total length (>= 10000 bp)   89312                       12772529                    13231273                    13339862                  
+Total length (>= 25000 bp)   0                           12204376                    12162686                    12124881                  
+Total length (>= 50000 bp)   0                           12121907                    12041020                    12029204                  
+# contigs                    7                           53                          97                          109                       
+Largest contig               20743                       1506376                     1285368                     1285368                   
+Total length                 98753                       12772529                    13240714                    13359236                  
+Reference length             12157105                    12157105                    12157105                    12157105                  
+GC (%)                       40.43                       38.41                       38.40                       38.40                     
+Reference GC (%)             38.15                       38.15                       38.15                       38.15                     
+N50                          13846                       809047                      647873                      647873                    
+NG50                         -                           809047                      674164                      674164                    
+N90                          10759                       350316                      107490                      103314                    
+NG90                         -                           441569                      234961                      234961                    
+auN                          15108.9                     818225.5                    641917.7                    627458.9                  
+auNG                         122.7                       859646.2                    699134.3                    689503.9                  
+L50                          3                           6                           8                           8                         
+LG50                         -                           6                           7                           7                         
+L90                          6                           15                          24                          26                        
+LG90                         -                           14                          18                          18                        
+# misassemblies              3                           121                         132                         135                       
+# misassembled contigs       3                           44                          65                          69                        
+Misassembled contigs length  34046                       12630657                    11882327                    11802878                  
+# local misassemblies        0                           36                          39                          39                        
+# scaffold gap ext. mis.     0                           0                           0                           0                         
+# scaffold gap loc. mis.     0                           0                           0                           0                         
+# unaligned mis. contigs     0                           0                           0                           0                         
+# unaligned contigs          0 + 1 part                  1 + 17 part                 1 + 25 part                 1 + 25 part               
+Unaligned length             1294                        112206                      112191                      112191                    
+Genome fraction (%)          0.699                       97.420                      97.445                      97.475                    
+Duplication ratio            1.134                       1.068                       1.107                       1.116                     
+# N's per 100 kbp            0.00                        0.00                        0.00                        0.00                      
+# mismatches per 100 kbp     284.24                      205.70                      208.18                      206.76                    
+# indels per 100 kbp         45.64                       28.05                       29.40                       29.35                     
+Largest alignment            20743                       843303                      765504                      765504                    
+Total aligned length         96398                       12650381                    13112224                    13230212                  
+NA50                         12389                       273893                      220852                      220852                    
+NGA50                        -                           284119                      250704                      250704                    
+NA90                         7727                        65917                       17198                       16609                     
+NGA90                        -                           109892                      107862                      106924                    
+auNA                         13350.5                     356505.7                    300261.3                    297232.9                  
+auNGA                        108.4                       374552.9                    327024.7                    326624.1                  
+LA50                         3                           13                          17                          17                        
+LGA50                        -                           12                          14                          14                        
+LA90                         7                           47                          69                          76                        
+LGA90                        -                           40                          45                          45                        
