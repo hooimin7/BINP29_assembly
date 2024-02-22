@@ -1,4 +1,4 @@
-Long read de novo assembly exercise
+#Long read de novo assembly exercise#
 
 Dataset is a HiFi Pacbio reads from the yeast Saccharomyces cerevisiae.
 The data can be downloaded from NCBI Sequence Read Archive (SRA)
@@ -6,21 +6,20 @@ The data can be downloaded from NCBI Sequence Read Archive (SRA)
 Download the reads for the following page or use sra-tools:
 SRR13577846
 
-fastq-dump 3.0.10
+**fastq-dump 3.0.10**
 
 Quality check before assembly
-FastQC 0.12.1
+**FastQC 0.12.1**
 
 de novo assembly
-hifiasm 0.19.8-r603
+**hifiasm 0.19.8-r603**
 
 Quast quality assessment
-QUAST 5.2.0
+**QUAST 5.2.0**
 
 BUSCO assessment
-BUSCO 2.0.1
+**BUSCO 5.6.1**
 
-augustus 3.5.0
 
 Setting up data
 mkdir de_novo_genome_assembly
